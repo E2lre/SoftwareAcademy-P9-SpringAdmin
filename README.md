@@ -34,4 +34,5 @@ docker run -p 9105:9105 --name SpringAdmin p9-spring-admin
 
 ## URI : Check SpringAdmin server
 http://localhost:9105/applications
+
 http://springadmin:9105/applications
